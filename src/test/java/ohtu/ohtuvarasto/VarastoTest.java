@@ -57,7 +57,7 @@ public class VarastoTest {
 
     @Test
     public void ottaminenLisääTilaa() {
-        varasto.lisaaVarastoon(8);
+        varasto.lisaaVarastoon(18);
 
         varasto.otaVarastosta(2);
 
